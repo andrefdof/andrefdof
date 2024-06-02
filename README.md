@@ -1,7 +1,6 @@
 - 👋 Hi, I’m André Fernandes
 - 👀 I’m interested in reaching my full potential in all aspects of life.
-- 🌱 I’m currently learning Vue.js and Laravel. 
-- 💞️ I’m looking to collaborate on front end Vue.js projects.
+- 🌱 I’m currently working a full stack dev.
 - 📫 How to reach me : andrefdof@gmail.com
 
 <!---
